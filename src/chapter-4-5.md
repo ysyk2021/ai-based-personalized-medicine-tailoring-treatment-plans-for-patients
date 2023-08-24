@@ -1,5 +1,3 @@
-Social Media and User Behavior Tracking
-========================================================================================================
 
 In this chapter, we will explore the role of social media and user behavior tracking in data collection and analysis for AI-based personalized medicine. We will examine the methods used to collect and analyze these types of data, as well as their potential applications in developing personalized treatment plans.
 

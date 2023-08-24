@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Personalized Medicine
-==================================================================================================================================
 
 Artificial intelligence (AI) has the potential to transform personalized medicine by providing doctors with more accurate and precise treatment plans tailored to individual patients. There are different types of AI, each with their own applications in healthcare. In this chapter, we will explore the types of AI and their applications in personalized medicine.
 

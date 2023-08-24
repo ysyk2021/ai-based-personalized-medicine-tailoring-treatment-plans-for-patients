@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Personalized Medicine
-===========================================================================================================
 
 Artificial intelligence (AI) has the potential to transform personalized medicine by providing doctors with more accurate and precise treatment plans tailored to individual patients. However, like any technology, AI-based personalized medicine has its advantages and limitations. In this chapter, we will explore these advantages and limitations.
 

@@ -1,5 +1,3 @@
-Drug Discovery and Development
-========================================================================================
 
 AI-based personalized medicine is transforming the drug discovery and development process by using machine learning algorithms to identify potential drug targets and predict the efficacy of new drugs. In this chapter, we will explore the techniques and strategies used in AI-based drug discovery and development.
 

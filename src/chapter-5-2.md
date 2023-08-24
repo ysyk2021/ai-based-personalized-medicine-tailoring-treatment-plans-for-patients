@@ -1,5 +1,3 @@
-Computer-Aided Diagnosis and Image Analysis
-==============================================================================================================
 
 In this chapter, we will explore the role of computer-aided diagnosis (CAD) and image analysis in AI-based personalized medicine. We will examine the methods used to develop CAD systems and image analysis algorithms, as well as their potential applications in developing personalized treatment plans.
 

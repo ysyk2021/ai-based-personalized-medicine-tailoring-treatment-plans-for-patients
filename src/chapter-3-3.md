@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Personalized Medicine
-========================================================================================================
 
 Artificial intelligence is transforming the field of personalized medicine by providing doctors with more accurate and precise treatment plans tailored to individual patients. In this chapter, we will explore some case studies on the use of AI in personalized medicine.
 

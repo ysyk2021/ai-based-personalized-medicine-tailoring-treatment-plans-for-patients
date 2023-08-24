@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Personalized Medicine
-===================================================================================================================================
 
 In this chapter, we will provide an overview of the data collection and analysis process for AI-based personalized medicine. We will examine the types of data used in personalized medicine, as well as the methods used to collect and analyze this data.
 

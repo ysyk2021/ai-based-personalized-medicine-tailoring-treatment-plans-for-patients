@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Healthcare
-====================================================================================
 
 Artificial intelligence (AI) is transforming the healthcare industry by providing doctors with more accurate and precise treatment plans tailored to individual patients. In this chapter, we will provide an overview of AI and its applications in healthcare.
 
@@ -40,5 +38,4 @@ Conclusion
 ----------
 
 AI is transforming the healthcare industry by providing doctors with more accurate and precise treatment plans tailored to individual patients. Applications of AI in healthcare include diagnostics, treatment planning, drug discovery and development, patient monitoring, and administrative tasks. The advantages of AI in healthcare include improved accuracy, more efficient treatments, and earlier interventions. With continued research and development, AI has the potential to revolutionize the future of healthcare.
-
 

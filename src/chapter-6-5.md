@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-=================================================================================================
 
 In this chapter, we will explore the business models that support the implementation of AI-based personalized medicine, as well as the cost-effectiveness of this approach. We will examine the potential benefits and challenges of implementing AI-based personalized medicine from a business perspective.
 

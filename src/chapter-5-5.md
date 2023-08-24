@@ -1,5 +1,3 @@
-Precision Oncology and Immunotherapy
-==============================================================================================
 
 Precision oncology and immunotherapy are two areas of medicine that have been transformed by AI-based personalized medicine. By analyzing genetic data and other patient information, doctors can identify potential cancer treatments that are tailored to the individual patient. In this chapter, we will explore the techniques and strategies used in precision oncology and immunotherapy.
 

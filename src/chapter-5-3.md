@@ -1,5 +1,3 @@
-Clinical Decision Support Systems
-====================================================================================================
 
 In this chapter, we will explore the role of clinical decision support systems (CDSS) in AI-based personalized medicine. We will examine the methods used to develop CDSS, as well as their potential applications in developing personalized treatment plans.
 

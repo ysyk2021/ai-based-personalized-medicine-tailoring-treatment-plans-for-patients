@@ -1,5 +1,3 @@
-Opportunities and Challenges in Scaling up AI-Based Personalized Medicine
-===========================================================================================================
 
 AI-based personalized medicine has the potential to revolutionize healthcare by providing more effective and efficient treatment plans tailored to individual patients. However, scaling up this approach presents both opportunities and challenges.
 

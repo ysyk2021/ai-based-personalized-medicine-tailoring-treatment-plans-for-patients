@@ -1,5 +1,3 @@
-Objectives of the Book
-==================================================
 
 The field of personalized medicine has gained significant attention in recent years due to the emergence of advanced technologies such as artificial intelligence (AI) and genomics. The objective of this book is to provide a comprehensive overview of AI-based personalized medicine and its potential applications in tailoring treatment plans for patients.
 

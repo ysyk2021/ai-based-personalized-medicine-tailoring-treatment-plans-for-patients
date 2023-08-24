@@ -1,5 +1,3 @@
-Genomics and Proteomics
-========================================================================================
 
 In this chapter, we will focus on the use of genomics and proteomics in data collection and analysis for AI-based personalized medicine. We will explore the role of these fields in personalized medicine, as well as the methods used to collect and analyze genomic and proteomic data.
 

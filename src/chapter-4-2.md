@@ -1,5 +1,3 @@
-Electronic Health Records and Medical Imaging
-==============================================================================================================
 
 In this chapter, we will explore the role of electronic health records (EHRs) and medical imaging in data collection and analysis for AI-based personalized medicine. We will examine the methods used to collect and analyze EHR and medical imaging data, as well as their importance in developing personalized treatment plans.
 

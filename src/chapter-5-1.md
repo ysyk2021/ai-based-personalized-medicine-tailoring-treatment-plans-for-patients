@@ -1,5 +1,3 @@
-Overview of AI-Based Personalized Medicine Techniques and Strategies
-==============================================================================================================================
 
 AI-based personalized medicine relies on a variety of techniques and strategies to collect, analyze, and interpret patient data. This chapter provides an overview of some of the most common AI-based personalized medicine techniques and strategies.
 

@@ -1,5 +1,3 @@
-Wearable Devices and Patient Monitoring
-========================================================================================================
 
 In this chapter, we will explore the role of wearable devices and patient monitoring in data collection and analysis for AI-based personalized medicine. We will examine the methods used to collect and analyze these types of data, as well as their potential applications in developing personalized treatment plans.
 
